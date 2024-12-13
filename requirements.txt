@@ -1,0 +1,6 @@
+flask
+torch
+transformers>=4.27.0
+safetensors
+sentencepiece
+accelerate>=0.26.0
